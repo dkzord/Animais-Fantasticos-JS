@@ -190,7 +190,7 @@ body {
   }
 
   .grid-section {
-    grid-template-column: 100px 1fr;
+    grid-template-columns: 100px 1fr;
     grid-gap: 10px;
   }
   .animais-lista {
